@@ -1,4 +1,3 @@
-# Code Refactor Starter Code
 Title: Horiseon Website
 
 Description
