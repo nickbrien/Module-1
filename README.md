@@ -1,8 +1,19 @@
-# Module-1
-first homework assignment
 # Code Refactor Starter Code
 Title: Horiseon Website
-Motivation: Make the css have less subjects and I compressed as much as I could.
-I came across many aspects I did not know how to compress. 
+
+Description
+Compressed the CSS files so it does not take up 200 lines. Commented on the CSS files. 
+
+Installation
+N/A
+
+Usage
+To use this webpage you can scroll up and down and use the lniks to navigate.
+
+Credits
+N/A
+
+License
+Please refer to the LICENSE in the repo.
 
 file:///C:/Users/nick2/Module-1/urban-octo-telegram/Develop/index.html
